@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+}
+.page{
+    background-color: cornsilk;
+    text-align: center;
+}
+.recipe_links{
+    list-style-type: none;
+    padding-left: 0%;
+}
+.odin_stamp{
+    max-width: 15%;
+}
